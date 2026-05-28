@@ -1,6 +1,6 @@
 # P02: Repositori de GitHub
 
-## Repositori de GitHub
+## Repositori de GitHub:
 
 [Repositori de GitHub](https://github.com/anthonymilla/Projecte3-Everpia2/tree/main)
 
