@@ -21,5 +21,5 @@ A més d’un informe amb tots aquests punts, caldrà fer un últim apartat amb 
 
 Es farà d’auditoria per equips amb feedback per incorporar a l’informe a mode de correccions. També hi haurà una prova de validació.
 
-
+[Anar a la Solució](../Tasca05/Solucio.md)    
 [Anar a la pàgina inicial](../README.md)
