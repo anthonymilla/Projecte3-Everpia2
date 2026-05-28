@@ -7,4 +7,5 @@ Per una correcta gestió és molt important que es mantingui un criteri uniforme
 - Crear carpetes per les diferents tasques: tasca01, tasca02, etc. on tindreu un arxiu README.md amb l’enunciat o descripció i l’enllaç a l’arxiu que contingui la solució de l’activitat.
 - En el cas dels productes que tinguin lliurament, creareu una carpeta que s’anomeni producte04, per exemple, i seguir el mateix criteri que pel lliurament de les tasques.
 
+[Anar a la Solució](../Producte02/Solucio.md)    
 [Anar a la pàgina inicial](../README.md)
