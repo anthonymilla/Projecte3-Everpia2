@@ -21,4 +21,5 @@ Un cop hagi finalitzat la formació, hauràs de respondre un qüestionari per ta
 - [**RA2AA1 Protecció de la informació**](https://docs.google.com/presentation/d/12lUibOLU_6kCJRNg59eXIrDNA6c1a6oK/edit?usp=drive_link&ouid=104728425662496836733&rtpof=true&sd=true)  
 - [**RA2AA2 Sistemes d’emmagatzematge**](https://docs.google.com/presentation/d/17Yj0kBSwE8ct7ViQuq0a8yqEfUUbrGMt/edit?usp=sharing&ouid=104728425662496836733&rtpof=true&sd=true)
 
+[Anar a la Solució](../Tasca02/Solucio.md)    
 [Anar a la pàgina inicial](../README.md)
