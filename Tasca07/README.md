@@ -44,5 +44,5 @@ Per fer una prova de concepte, usareu el domini digicore-XX.test on XX serà el 
 
 Per demostrar que sou uns tècnics competents haureu de passar una avaluació pràctica al final del repte. Durant aquesta avaluació només podreu usar com a material de suport un full manuscrit amb les vostre anotacions, que lliurareu en finalitzar la prova.
 
-[Anar a la Solució](../Tasca02/Solucio.md)    
+[Anar a la Solució](../Tasca07/Solucio.md)    
 [Anar a la pàgina inicial](../README.md)   
