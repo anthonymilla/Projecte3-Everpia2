@@ -6,4 +6,5 @@ Doncs bé, aquest vídeo és un producte del qual podeu estar orgullosos i per t
 
 Tal com es va indicar a la tasca, pengeu el vídeo en alguna plataforma, per exemple, podeu **Stream** que forma part del vostre Office 365. Assegureu-vos de donar permisos de visualització.
 
+[Anar al vídeo](../Producte06/video.md)  
 [Anar a la pàgina inicial](../README.md)
