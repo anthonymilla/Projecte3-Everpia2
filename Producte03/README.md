@@ -72,4 +72,5 @@ Reproduïu els continguts amb el text copiat de la web o fent servir (Lorem Ipsu
 - Activeu i proveu diferents temes fins a trobar-ne un que s’ajusti al disseny original.
 - Ajusteu els enllaços permanents i els paràmetres generals (idioma, zona horària, nom del lloc…).
 
+[Anar a la Solució](../Producte03/Solucio.md)    
 [Anar a la pàgina inicial](../README.md)
