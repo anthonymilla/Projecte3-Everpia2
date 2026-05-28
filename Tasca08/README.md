@@ -14,4 +14,5 @@ Aquesta sessió està dissenyada com una màsterclass pràctica amb exemples rea
 - Saber com representar la jerarquia d’un lloc web.
 - Crear un document tècnic explicatiu en format Markdown, que servirà com a referència per a futurs projectes.
 
+[Anar a la Solució](../Tasca08/Solucio.md)    
 [Anar a la pàgina inicial](../README.md)   
