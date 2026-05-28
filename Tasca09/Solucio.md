@@ -11,5 +11,7 @@
   - Accions concretes al sector IT
   - Beneficis socials, ambientals o econòmics
 
+**L’activitat es va fer per escrit en paper i la professora té la solució en paper corresponentment.**
+
 [Anar a l'enunciat](../Tasca09/README.md)      
 [Anar a la pàgina inicial](../README.md)
