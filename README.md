@@ -31,6 +31,7 @@ Cada error és una lliçó, cada solució un petit triomf. Aquí no hi ha profes
 Sí, serà intens. Però també una gran oportunitat per demostrar que **pots sobreviure en qualsevol empresa IT**.
 
 ## Tasques:
+
 - [Tasca00-Presentació del projecte i creació del Kanban i el repositori](/Tasca00)
 
 - [Tasca01-Gestor de contrasenyes](/Tasca01)
@@ -54,6 +55,7 @@ Sí, serà intens. Però també una gran oportunitat per demostrar que **pots so
 - [Tasca10-ASG - Relació ODS i ASG](/Tasca10)
 
 ## Productes:
+
 - [Producte01-Kanban del projecte](/Producte01)
 
 - [Producte02-Repositori de GitHub](/Producte02)
