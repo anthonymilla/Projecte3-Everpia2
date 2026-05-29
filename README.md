@@ -1,4 +1,4 @@
-# Projecte 3 - EverPia
+# Projecte 3 - Consultoria EverPia 2
 
 ## 🖥️ EverPia 2: *Sobreviure en una empresa IT*
 
